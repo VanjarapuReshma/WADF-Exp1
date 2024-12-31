@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+   }
+   /* Header styling */
+   header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+   }
+   header h1 {
+    margin: 0;
+    font-size: 2.5em;
+   }
+   header p {
+    margin: 5px 0 0;
+   }
+   /* Main content styling */
+   main {
+    padding: 20px;
+   }
+   .introduction, .features {
+    margin-bottom: 20px;
+   }
+   .introduction h2, .features h2 {
+    color: #4CAF50;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+   }
+   .features ul {
+    list-style-type: square;
+    padding-left: 20px;
+   }
+   .features li {
+    margin: 5px 0;
+   }
+   /* Footer styling */
+   footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   }
+  
